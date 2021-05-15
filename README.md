@@ -2,7 +2,6 @@
 
 🔭 I’m currently working on
 - Nucleus
-- Mink
 - Colony
 
 🌱 I’m currently learning
