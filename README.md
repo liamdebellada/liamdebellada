@@ -1,12 +1,10 @@
 ### Hi 👋, I'm Liam
 
 🔭 I’m currently working on
-- Nucleus
-- Colony
+- RSN App
 
 🌱 I’m currently learning
-- C
-- TS
-- Svelte
+- Rust
+- Gatsby
 
 📫 How to reach me: **liam.debell@ada.ac.uk**
