@@ -7,4 +7,4 @@
 - Rust
 - Gatsby
 
-📫 How to reach me: **liam.debell@ada.ac.uk**
+📫 How to reach me: **liamdebel11@gmail.com**
