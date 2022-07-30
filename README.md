@@ -1,10 +1,3 @@
 ### Hi 👋, I'm Liam
 
-🔭 I’m currently working on
-- RSN App
-
-🌱 I’m currently learning
-- Rust
-- Gatsby
-
-📫 How to reach me: **liamdebel11@gmail.com**
+📫 Contact: **liamdebel11@gmail.com**
